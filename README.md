@@ -1,2 +1,3 @@
 # Mandelbrot-Doc
-HTML Documentation files for the Haddock Doc of my Haskell Mandelbrot project
+Using Haddock, I created a HTML site for my 
+https://jakubschwenkbeck.github.io/Mandelbrot-Doc/index.html
